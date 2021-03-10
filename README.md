@@ -1,2 +1,2 @@
 # hello-world
-this repository is created tutorial
+this repository is created for tutorial
